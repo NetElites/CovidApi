@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovidApi", "CovidApi\CovidApi.csproj", "{F9547CBD-0C74-4C6D-8D13-D4D461A984E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Comman", "Comman", "{FE19A1DB-3C4C-4FB3-8AF9-259C16170312}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{8399CFE0-817E-4A76-AA9D-C1F3905B2B09}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastucure", "Infrastucure", "{729F8C4D-4336-4292-BC6C-362406C846DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Perentation", "Perentation", "{DC8D19C9-8937-4204-BEB5-03B62E09915B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovidApi.Domain", "CovidApi.Domain\CovidApi.Domain.csproj", "{1C0E5A2F-FCB3-4932-A733-9294CAF981E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovidApi.Application", "CovidApi.Application\CovidApi.Application.csproj", "{673DADB7-C242-4DF5-BFED-7A9BD65A0DF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovidApi.Commain", "CovidApi.Commain\CovidApi.Commain.csproj", "{04B200D9-ABD1-48D4-B576-CD4EC6175C6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovidApi.Infacstucture", "CovidApi.Infacstucture\CovidApi.Infacstucture.csproj", "{6D2C59F3-74BC-4D60-A5D0-29418D19B031}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovidApi.Persistence", "CovidApi.Persistence\CovidApi.Persistence.csproj", "{10CD960C-2482-460B-B606-E54F58084CB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9547CBD-0C74-4C6D-8D13-D4D461A984E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9547CBD-0C74-4C6D-8D13-D4D461A984E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9547CBD-0C74-4C6D-8D13-D4D461A984E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9547CBD-0C74-4C6D-8D13-D4D461A984E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C0E5A2F-FCB3-4932-A733-9294CAF981E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0E5A2F-FCB3-4932-A733-9294CAF981E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0E5A2F-FCB3-4932-A733-9294CAF981E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0E5A2F-FCB3-4932-A733-9294CAF981E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{673DADB7-C242-4DF5-BFED-7A9BD65A0DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{673DADB7-C242-4DF5-BFED-7A9BD65A0DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{673DADB7-C242-4DF5-BFED-7A9BD65A0DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{673DADB7-C242-4DF5-BFED-7A9BD65A0DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04B200D9-ABD1-48D4-B576-CD4EC6175C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B200D9-ABD1-48D4-B576-CD4EC6175C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B200D9-ABD1-48D4-B576-CD4EC6175C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B200D9-ABD1-48D4-B576-CD4EC6175C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D2C59F3-74BC-4D60-A5D0-29418D19B031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D2C59F3-74BC-4D60-A5D0-29418D19B031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D2C59F3-74BC-4D60-A5D0-29418D19B031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D2C59F3-74BC-4D60-A5D0-29418D19B031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10CD960C-2482-460B-B606-E54F58084CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10CD960C-2482-460B-B606-E54F58084CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10CD960C-2482-460B-B606-E54F58084CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10CD960C-2482-460B-B606-E54F58084CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F9547CBD-0C74-4C6D-8D13-D4D461A984E9} = {DC8D19C9-8937-4204-BEB5-03B62E09915B}
+		{1C0E5A2F-FCB3-4932-A733-9294CAF981E8} = {8399CFE0-817E-4A76-AA9D-C1F3905B2B09}
+		{673DADB7-C242-4DF5-BFED-7A9BD65A0DF1} = {8399CFE0-817E-4A76-AA9D-C1F3905B2B09}
+		{04B200D9-ABD1-48D4-B576-CD4EC6175C6F} = {FE19A1DB-3C4C-4FB3-8AF9-259C16170312}
+		{6D2C59F3-74BC-4D60-A5D0-29418D19B031} = {729F8C4D-4336-4292-BC6C-362406C846DC}
+		{10CD960C-2482-460B-B606-E54F58084CB4} = {729F8C4D-4336-4292-BC6C-362406C846DC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9601854E-F1A3-45B6-BD82-516323419B50}
+	EndGlobalSection
+EndGlobal

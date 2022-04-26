@@ -1,0 +1,17 @@
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Application\bin\Debug\net5.0\CovidApi.Application.deps.json
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Application\bin\Debug\net5.0\CovidApi.Application.dll
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Application\bin\Debug\net5.0\ref\CovidApi.Application.dll
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Application\bin\Debug\net5.0\CovidApi.Application.pdb
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Application\obj\Debug\net5.0\CovidApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Application\obj\Debug\net5.0\CovidApi.Application.AssemblyInfoInputs.cache
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Application\obj\Debug\net5.0\CovidApi.Application.AssemblyInfo.cs
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Application\obj\Debug\net5.0\CovidApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Application\obj\Debug\net5.0\CovidApi.Application.dll
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Application\obj\Debug\net5.0\ref\CovidApi.Application.dll
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Application\obj\Debug\net5.0\CovidApi.Application.pdb
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Application\bin\Debug\net5.0\CovidApi.Domain.dll
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Application\bin\Debug\net5.0\CovidApi.Persistence.dll
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Application\bin\Debug\net5.0\CovidApi.Persistence.pdb
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Application\bin\Debug\net5.0\CovidApi.Domain.pdb
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Application\obj\Debug\net5.0\CovidApi.Application.csproj.CopyComplete
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Application\obj\Debug\net5.0\CovidApi.Application.csprojAssemblyReference.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CovidApi.Infacstucture/1.0.0": {
+        "runtime": {
+          "CovidApi.Infacstucture.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CovidApi.Infacstucture/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Infacstucture\bin\Debug\net5.0\CovidApi.Infacstucture.deps.json
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Infacstucture\bin\Debug\net5.0\CovidApi.Infacstucture.dll
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Infacstucture\bin\Debug\net5.0\ref\CovidApi.Infacstucture.dll
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Infacstucture\bin\Debug\net5.0\CovidApi.Infacstucture.pdb
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Infacstucture\obj\Debug\net5.0\CovidApi.Infacstucture.csprojAssemblyReference.cache
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Infacstucture\obj\Debug\net5.0\CovidApi.Infacstucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Infacstucture\obj\Debug\net5.0\CovidApi.Infacstucture.AssemblyInfoInputs.cache
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Infacstucture\obj\Debug\net5.0\CovidApi.Infacstucture.AssemblyInfo.cs
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Infacstucture\obj\Debug\net5.0\CovidApi.Infacstucture.csproj.CoreCompileInputs.cache
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Infacstucture\obj\Debug\net5.0\CovidApi.Infacstucture.dll
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Infacstucture\obj\Debug\net5.0\ref\CovidApi.Infacstucture.dll
+C:\Users\xp shop\Desktop\CovidApi\CovidApi.Infacstucture\obj\Debug\net5.0\CovidApi.Infacstucture.pdb
